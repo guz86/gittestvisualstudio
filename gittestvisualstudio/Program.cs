@@ -6,7 +6,7 @@ namespace gittestvisualstudio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test");
+            Console.WriteLine("test3");
             Console.WriteLine("Hello World!");
         }
     }
