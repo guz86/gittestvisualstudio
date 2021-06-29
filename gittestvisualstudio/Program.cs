@@ -8,6 +8,7 @@ namespace gittestvisualstudio
         {
             Console.WriteLine("test");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello");
         }
     }
 }
